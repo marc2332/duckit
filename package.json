@@ -1,0 +1,21 @@
+{
+	"name": "duckit",
+	"version": "1.0.0",
+	"description": "Homepage for DuckDuckGo",
+	"main": "index.js",
+	"scripts": {
+		"start": "parcel src/index.html",
+		"build": "parcel build src/index.html"
+	},
+	"author": "Marc Espín Sanz <mespinsanz@gmail.com>",
+	"dependencies": {
+		"@material-ui/core": "^4.10.0",
+		"react": "^16.13.1",
+		"react-dom": "^16.13.1",
+		"styled-components": "^5.1.1"
+	},
+	"devDependencies": {
+		"parcel": "^1.12.4",
+		"sass": "^1.26.7"
+	}
+}
