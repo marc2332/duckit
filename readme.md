@@ -1,5 +1,7 @@
 A homepage for DuckDuckGo very simple
 
+Website: https://duckit.netlify.app/
+
 Uses:
 * ✨ React
 * 📘 Material-UI
